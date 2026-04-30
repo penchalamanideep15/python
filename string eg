@@ -5,3 +5,8 @@ d=a.swapcase()
 e=a.title()
 f=a.capitalize()
 print(e)
+
+
+a="manideep is doing engg"
+b=sorted(a,reverse=True)
+print(b)

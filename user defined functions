@@ -1,3 +1,4 @@
+step2:detailing function
 def a1():
     n1=10
     n2=20
@@ -10,6 +11,7 @@ def a3():
     return a1+a2
 def a4(b1,b2):
     return b1+b2
+step1:calling the function
 a1()
 a2(100,200)
 res=a3()

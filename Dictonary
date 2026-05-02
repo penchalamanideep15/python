@@ -1,0 +1,3 @@
+a={'name':'mani','age':'21','mark':'45'}
+a['sub']='CE'
+print(a)
